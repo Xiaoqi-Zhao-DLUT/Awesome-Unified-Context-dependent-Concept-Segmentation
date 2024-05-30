@@ -80,7 +80,7 @@ the binarized prediction mask and ground-truth:
     <img src="image/PA_metric.png" width=40%/> <br />
 </p>
 
-- **F-measure** is a metric that comprehensively considers both precision and recall:
+- **F-measure** is a metric that comprehensively considers both precision and recall:
 <p align="center">
     <img src="image/Fm_metric.png" width=40%/> <br />
 </p>
@@ -111,7 +111,7 @@ structural similarity Sr and the object-aware structural similarity So:
     <img src="image/DICE_metric.png" width=40%/> <br />
 </p>
 
-- **Balanced error rate (BER)** is a common metric to evaluate shadow detection performance, where shadow and non-shadow regions contribute equally to the overall performance without considering their relative areas:
+- **Balanced error rate (BER)** is a common metric to evaluate shadow detection performance, where shadow and non-shadow regions contribute equally to the overall performance without considering their relative areas:
 <p align="center">
     <img src="image/BER_metric.png" width=40%/> <br />
 </p>
