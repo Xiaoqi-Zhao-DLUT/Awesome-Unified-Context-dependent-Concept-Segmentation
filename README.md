@@ -131,6 +131,7 @@ structural similarity Sr and the object-aware structural similarity So:
 ###  5.2. Methods
 | **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| 2025 | --- | ICCV |  Is Visual in-Context Learning for Compositional Medical Tasks within Reach? <br><sup><sub> Simon Reiß, Zdravko Marinov, Alexander Jaus, Constantin Seibold, M. Saquib Sarfraz, Erik Rodner, Rainer Stiefelhagen</sub></sup> | [Paper](https://arxiv.org/pdf/2507.00868)/
 | 2025 | FOCUS | AAAI | FOCUS: Towards Universal Foreground Segmentation <br><sup><sub> Zuyao You, Lingyu Kong, Lingchen Meng, Zuxuan Wu </sub></sup> | [Paper](https://arxiv.org/pdf/2501.05238)/[Code](https://github.com/geshang777/FOCUS)
 | 2025 | Iris | CVPR |  Show and Segment: Universal Medical Image Segmentation via In-Context Learning <br><sup><sub>  Yunhe Gao, Di Liu, Zhuowei Li, Yunsheng Li, Dongdong Chen, Mu Zhou, Dimitris N. Metaxas </sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_Show_and_Segment_Universal_Medical_Image_Segmentation_via_In-Context_Learning_CVPR_2025_paper.pdf)
 | 2025 | UCS | arXiv |   UCS: A Universal Model for Curvilinear Structure Segmentation <br><sup><sub>  Dianshuo Li, Li Chen, Yunxiang Cao, Kai Zhu, Jun Cheng </sub></sup> | [Paper](https://arxiv.org/pdf/2504.04034)
